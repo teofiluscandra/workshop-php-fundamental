@@ -6,4 +6,4 @@ for SMK Student
 
 # Simple CRUD MySQL
 
-![alt text](https://raw.githubusercontent.com/teofiluscandra/workshop-php/master/screenshot/ss_workshop-php.png)
+![alt text](https://github.com/teofiluscandra/workshop-php-fundamental/blob/master/screenshot/ss_workshop-php.png?raw=true)
